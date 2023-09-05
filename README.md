@@ -1,4 +1,4 @@
-# Function repairs ADPCM audio file with was encoded with disrupted frame
+# Function repairs ADPCM audio file which was encoded with disrupted frame
 
 Functions repairs ADPCM audio files. ADPCM is audio loss compression algorithm. Audio signal is saved in wav files
 with header like WAV PCM but there is a huge difference between them. In ADPCM wav file format signal during
